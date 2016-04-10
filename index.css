@@ -1,7 +1,7 @@
 /* Note to students: Some properties are given to you to fill out,
 others you can modify as they stand, and if you have time,
 there are definitely some properties you should add!*/
-​
+
     html {
       height: 100%;
     }
@@ -10,10 +10,10 @@ there are definitely some properties you should add!*/
        height: 100%;
        background-color: 83D330
        font type: arial
+       
 
-​
     }
-​
+
     header {
         background-color: #2E688E;
         padding: 10px;
@@ -27,7 +27,7 @@ there are definitely some properties you should add!*/
         text-align: center;
     }
     nav ul {
-​
+
         padding: 50px;
         background-color: 7AC922;
         border-bottom: ;
@@ -62,16 +62,16 @@ there are definitely some properties you should add!*/
     article ul {
         list-style: square;
         line-height: 0
-​
-​
-​
+
+
+
     }
     aside {
         width: 17%;
         background-color:278608;
         position: fixed;
         float: right;
-​
+
     }
     aside ul {
         list-style-type: none;
